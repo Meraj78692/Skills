@@ -1,0 +1,42 @@
+.outerContainer {
+  margin: 50px;
+}
+
+.progress {
+  height: 2rem;
+}
+
+.progress .html {
+  padding: 5px 0;
+  width: 90%;
+  height: 1.5rem;
+  background-color: rgb(244, 130, 60);
+}
+
+.progress .css {
+  padding: 5px 0;
+  width: 75%;
+  height: 1.5rem;
+  background-color: rgb(234, 94, 244);
+}
+
+.progress .js {
+  padding: 5px 0;
+  width: 50%;
+  height: 1.5rem;
+  background-color: rgb(243, 240, 97);
+}
+
+.progress .bootstrap {
+  padding: 5px 0;
+  width: 65%;
+  height: 1.5rem;
+  background-color: rgb(75, 81, 245);
+}
+
+.progress .react {
+  padding: 5px 0;
+  width: 15%;
+  height: 1.5rem;
+  background-color: rgb(75, 245, 239);
+}
